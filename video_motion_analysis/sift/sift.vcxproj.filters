@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sift_motion_analysis.cpp">
+    <ClCompile Include="sift_motion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
